@@ -1,0 +1,78 @@
+# Why are you using this? Trash ->
+ui.altmanager=AltManager
+ui.mods=Mods
+ui.background=Background
+ui.serverSpoof=ServerSpoof
+ui.antiForge=AntiForge
+ui.reconnect=Reconnect
+ui.changelog=ChangeLog
+
+ui.back=Back
+ui.status=Status
+ui.on=On
+ui.off=Off
+
+ui.serverSpoof.address=Server Address
+
+ui.chest.stealing=Stealing Chest
+ui.chest.disable=Disable %s
+
+ui.gameover.close=Hide This Screen
+
+ui.disconnect.randomAlt=Random Alt
+ui.disconnect.randomOffline=Random Offline
+
+ui.keybind.title=KeyBind Manager
+ui.keybind.select=Select a module to bind
+ui.keybind.addMacro=Press ENTER to add macro.
+ui.keybind.add=+ Add
+ui.keybind.key=%s Key
+ui.keybind.search=Search...
+
+ui.alt.idle=Idle...
+ui.alt.nameChanged=§cYour name is now §8 %s §c.
+ui.alt.error=Occurred an error: %s
+ui.alt.login=Login
+ui.alt.add=Add
+ui.alt.remove=Remove
+ui.alt.import=Import
+ui.alt.directLogin=Direct Login
+ui.alt.msLogin=Microsoft Login
+ui.alt.copy=Copy
+ui.alt.alts=%d Alts
+ui.alt.username=§7User: §a %s
+ui.alt.type=§7Type: §a %s
+ui.alt.type.premium=Premium
+ui.alt.type.cracked=Cracked
+ui.alt.removed=The account has been removed.
+ui.alt.needSelect=Select an account.
+ui.alt.copied=Copied account into your clipboard.
+ui.alt.imported=The accounts were imported successfully.
+ui.alt.emptyList=The list is empty.
+ui.alt.loggingIn=Logging in...
+ui.alt.clipBoardLogin=Clipboard Login
+ui.alt.fillBoth=You have to fill in both fields!
+ui.alt.readFailed=Clipboard flavor unsupported!
+ui.alt.invalidClipData=Invalid clipboard data. (Use: E-Mail:Password)
+ui.alt.loginUsername=Username / E-Mail
+ui.alt.loginPassword=Password
+ui.alt.alreadyAdded=The account has already been added.
+ui.alt.notWorking=The account doesn't work.
+ui.alt.checking=Checking...
+ui.alt.randomAltField=Rule of random alts
+
+ui.scaffold.blocks=Blocks > %d
+
+notify.module.title=Toggle
+notify.module.enable=Enabled %s
+notify.module.disable=Disabled %s
+
+module.category.combat=Combat
+module.category.player=Player
+module.category.movement=Movement
+module.category.render=Render
+module.category.client=Client
+module.category.world=World
+module.category.misc=Misc
+module.category.exploit=Exploit
+module.category.color=Color

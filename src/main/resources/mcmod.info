@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "NobleFull",
+    "name": "NobleFull",
+    "description": "A premium mod for Minecraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "QQGroup:3398229467",
+    "updateUrl": "",
+    "authorList": [
+      "CCBlueX",
+       "Silent"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
